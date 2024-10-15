@@ -1,12 +1,17 @@
 
 ]
-java:S1220""Move this file to a named package.8ÇËï©2J$6d0a21b4-03c4-40a8-9196-c2f84f7e7f27
-L	java:S106%"+Replace this use of System.out by a logger.(ÏÍôÊøÿÿÿÿ8Î¡š©2
-L	java:S106."+Replace this use of System.out by a logger.(ÇÒ¬üÿÿÿÿ8Ï¡š©2
-L	java:S1062"+Replace this use of System.out by a logger.(íÒ¿ûÿÿÿÿ8Ğ¡š©2
-G	java:S106="+Replace this use of System.out by a logger.(ûúÀÑ8Ñ¡š©2
-L	java:S106@"+Replace this use of System.out by a logger.(‹§áùÿÿÿÿ8Ñ¡š©2
-F	java:S106K"+Replace this use of System.out by a logger.(ıû‘&8Ò¡š©2
-L	java:S106N"+Replace this use of System.out by a logger.(‹§áùÿÿÿÿ8Ò¡š©2
-G	java:S106\"+Replace this use of System.out by a logger.(å¡«Î8Ó¡š©2
-L	java:S106^"+Replace this use of System.out by a logger.(ÏÍôÊøÿÿÿÿ8Ó¡š©2
+java:S1220""Move this file to a named package.8ÇËï©2J$639ce0de-f4e0-45bb-b55c-a2dc6beb0602
+L	java:S106'"+Replace this use of System.out by a logger.(ÏÍôÊøÿÿÿÿ8–×À©2
+L	java:S1060"+Replace this use of System.out by a logger.(ÇÒ¬üÿÿÿÿ8—×À©2
+L	java:S1064"+Replace this use of System.out by a logger.(íÒ¿ûÿÿÿÿ8—×À©2
+G	java:S106?"+Replace this use of System.out by a logger.(ûúÀÑ8˜×À©2
+L	java:S106B"+Replace this use of System.out by a logger.(‹§áùÿÿÿÿ8˜×À©2
+F	java:S106M"+Replace this use of System.out by a logger.(ıû‘&8˜×À©2
+L	java:S106P"+Replace this use of System.out by a logger.(‹§áùÿÿÿÿ8™×À©2
+L	java:S106^"+Replace this use of System.out by a logger.(ÏÍôÊøÿÿÿÿ8š×À©2
+^
+java:S2118i"AMake the "java.util.List" class "Serializable" or don't write it.(ÈÒö¢8œ×À©2
+F	java:S106j"+Replace this use of System.out by a logger.(Øò’8œ×À©2
+L	java:S106l"+Replace this use of System.out by a logger.(ùä‚£ÿÿÿÿÿ8œ×À©2
+L	java:S106y"+Replace this use of System.out by a logger.(¸Ÿøòøÿÿÿÿ8×À©2
+G	java:S106{"+Replace this use of System.out by a logger.(œ¬†¼8×À©2
