@@ -1,10 +1,12 @@
 
-z
-java:S1192#"XDefine a constant instead of duplicating this literal "Ãndice fuera de rango." 3 times.(ÏÍôÊøÿÿÿÿ8ÑÇ×©2
-V
-java:S1220""Move this file to a named package.J$100b2a53-22f0-4c79-ad57-d3380cb53025
-L	java:S106#"+Replace this use of System.out by a logger.(ÏÍôÊøÿÿÿÿ8õÇ×©2
-L	java:S1060"+Replace this use of System.out by a logger.(ÏÍôÊøÿÿÿÿ8öÇ×©2
-L	java:S1069"+Replace this use of System.out by a logger.(ÇÒ¬üÿÿÿÿ8÷Ç×©2
-L	java:S106="+Replace this use of System.out by a logger.(íÒ¿ûÿÿÿÿ8ùÇ×©2
-L	java:S106K"+Replace this use of System.out by a logger.(ÏÍôÊøÿÿÿÿ8úÇ×©2
+]
+java:S1220""Move this file to a named package.8ÇËï©2J$6d0a21b4-03c4-40a8-9196-c2f84f7e7f27
+L	java:S106%"+Replace this use of System.out by a logger.(ÏÍôÊøÿÿÿÿ8Î¡š©2
+L	java:S106."+Replace this use of System.out by a logger.(ÇÒ¬üÿÿÿÿ8Ï¡š©2
+L	java:S1062"+Replace this use of System.out by a logger.(íÒ¿ûÿÿÿÿ8Ğ¡š©2
+G	java:S106="+Replace this use of System.out by a logger.(ûúÀÑ8Ñ¡š©2
+L	java:S106@"+Replace this use of System.out by a logger.(‹§áùÿÿÿÿ8Ñ¡š©2
+F	java:S106K"+Replace this use of System.out by a logger.(ıû‘&8Ò¡š©2
+L	java:S106N"+Replace this use of System.out by a logger.(‹§áùÿÿÿÿ8Ò¡š©2
+G	java:S106\"+Replace this use of System.out by a logger.(å¡«Î8Ó¡š©2
+L	java:S106^"+Replace this use of System.out by a logger.(ÏÍôÊøÿÿÿÿ8Ó¡š©2
