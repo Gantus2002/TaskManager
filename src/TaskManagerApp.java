@@ -37,7 +37,7 @@ public class TaskManagerApp {
                     int prioridad = scanner.nextInt();
                     scanner.nextLine(); // Consumir el salto de línea
 
-                    Tarea nuevaTarea = new Tarea(titulo, descripcion, fechaLimite, horaLimite, prioridad);
+                    Tarea nuevaTarea = new Tarea(titulo, descripcion, fechaLimite, horaLimite, prioridad, false);
                     gestorTareas.agregarTarea(nuevaTarea);
                     System.out.println("Tarea agregada exitosamente.");
                     break;

@@ -22,7 +22,7 @@ public class Tarea implements Serializable {
      * @param horaLimite   La hora límite de la tarea.
      * @param prioridad    La prioridad de la tarea (1-5).
      */
-    public Tarea(String titulo, String descripcion, LocalDate fechaLimite, LocalTime horaLimite, int prioridad) {
+    public Tarea(String titulo, String descripcion, LocalDate fechaLimite, LocalTime horaLimite, int prioridad, boolean completada) {
         this.titulo = titulo;
         this.descripcion = descripcion;
         this.fechaLimite = fechaLimite;
